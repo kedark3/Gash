@@ -1,6 +1,6 @@
 # GASH - a Bash written in Go
 
-## Implements: 
+## Implements in very basic fashion:
 - pwd
 - cd
 - ls
@@ -11,3 +11,5 @@
 - rmdir
 - rm
 - touch
+
+### Note: Dockerfile is still WIP
